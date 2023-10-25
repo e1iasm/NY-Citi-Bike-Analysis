@@ -23,5 +23,3 @@ If you have any questions or feedback regarding the NY Citi Bike Analysis projec
 
 - Email: [eliasmengesha2@gmial.com](mailto:eliasmengesha2@gmial.com)
 - GitHub: [e1iasm](https://github.com/e1iasm)
-
-Please note that the analysis and code in this repository are provided as-is and may not be actively maintained or updated.
