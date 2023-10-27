@@ -7,7 +7,7 @@ This repository contains the code and analysis for the NY Citi Bike Analysis pro
 
 ## Files
 
-- `Citi Bike Final Presentation.pdf`: This is a PowerPoint presentation documenting the data analysis process and the findings of the project.
+- `Citi Bike Final Presentation.pdf`: This is a slide presentation documenting the data analysis process and the findings of the project.
 - `README.md`: This file provides information about the repository and the project.
 - `New York Citi Bikes_Raw Data.xlsx`: This Excel file contains the raw data used for the analysis.
 
