@@ -1,6 +1,6 @@
 # NY Citi Bike Analysis
 
-This repository contains the code and analysis for the NY Citi Bike Analysis project. The purpose of this analysis is to explore the customer base of Citi Bike and gain insights into their behavior. The analysis aims to achieve two main objectives:
+This repository contains the analysis for the NY Citi Bike Analysis project. The purpose of this analysis is to explore the customer base of Citi Bike and gain insights into their behavior. The analysis aims to achieve two main objectives:
 
 1. Identify locations where more bikes should be installed.
 2. Create targeted marketing campaigns that appeal to different customer segments.
